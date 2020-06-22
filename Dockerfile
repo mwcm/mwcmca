@@ -1,4 +1,4 @@
 FROM nginx:stable
-MAINTAINER Morgan Mitchell <mwcm@protonmail.com>
+MAINTAINER Morgan Mitchell <mwcmitchell@gmail.com>
 
 COPY src/ /usr/share/nginx/html
